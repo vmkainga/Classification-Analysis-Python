@@ -11,6 +11,7 @@ addition, you will be expected to help relevant stakeholders understand the pote
 your developed solution.
 
 You will be required to go through the following stages:
+
 ● Defining the Research Question
 
 ● Data Importation
